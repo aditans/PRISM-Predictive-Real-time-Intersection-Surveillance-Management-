@@ -103,7 +103,7 @@ The following critical traffic and control metrics are pushed to the ThingsBoard
 Sumo2Unity Script was forked from :
 
 **Ahmad Mohammadi, PhD**
-* **LinkedIn:** [linkedIn](https://www.linkedin.com/in/ahmadmohammadi1441/) [github]()
+* **LinkedIn:** [linkedIn](https://www.linkedin.com/in/ahmadmohammadi1441/) 
 * **GitHub:** [github](https://github.com/Ahmad1441)
 
 **SimuTraffX-Lab**
